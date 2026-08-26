@@ -1,8 +1,0 @@
-NEUROSLOP FINAL AUDIT
-=====================
-list_environments=0
-raw_items=0
-generic_headings=0
-suspicious_hits=1
-
-lectures/lecture_16.tex:376: [SAFE_CLAIM] нужно дополнительное условие роста или регулярности. Надёжное общее

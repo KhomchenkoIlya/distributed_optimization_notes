@@ -1,0 +1,4 @@
+# BEGIN distributed_optimization_notes build policy
+build/*
+!build/Distributed_Optimization_and_Machine_Learning.pdf
+# END distributed_optimization_notes build policy
