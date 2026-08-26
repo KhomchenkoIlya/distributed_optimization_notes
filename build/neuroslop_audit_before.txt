@@ -1,0 +1,78 @@
+NEUROSLOP AUDIT BEFORE
+======================
+
+files=47
+list_environments=0
+raw_items=0
+generic_headings=6
+suspicious_hits=40
+
+SECTION_COUNTS:
+lectures/lecture_01.tex: sections=10
+lectures/lecture_02.tex: sections=9
+lectures/lecture_04.tex: sections=12
+lectures/lecture_05.tex: sections=14
+lectures/lecture_06.tex: sections=11
+lectures/lecture_08.tex: sections=12
+lectures/lecture_10.tex: sections=12
+lectures/lecture_11.tex: sections=13
+
+LIST_ENVIRONMENTS:
+
+GENERIC_HEADINGS:
+lectures/lecture_01.tex:486: Итоги
+lectures/lecture_02.tex:532: Итоги
+lectures/lecture_03.tex:223: Итоги
+lectures/lecture_04.tex:599: Итоги
+lectures/lecture_05.tex:610: Итоги
+lectures/lecture_06.tex:608: Итоги
+
+SUSPICIOUS_FORMULATIONS:
+lectures/lecture_02.tex:458: [lecture_meta] В качестве мотивационного невыпуклого примера в лекции
+lectures/lecture_06.tex:604: [lecture_meta] Термин «инвексная функция» в лекции упоминается без формального
+lectures/lecture_10.tex:302: [transcript] В автоматической расшифровке в одном месте появляется знак
+lectures/lecture_10.tex:302: [auto_transcript] В автоматической расшифровке в одном месте появляется знак
+lectures/lecture_13.tex:239: [transcript] В автоматической расшифровке исходная формула для параметра
+lectures/lecture_13.tex:239: [auto_transcript] В автоматической расшифровке исходная формула для параметра
+lectures/lecture_13.tex:465: [lecture_meta] В лекции рассматривается нормированный поток
+lectures/lecture_14.tex:220: [transcript] в расшифровке повреждены, поэтому сохраняется только смысл примера.
+lectures/lecture_14.tex:218: [lecture_meta] равновесие может притягивать траектории, но не быть устойчивым. В
+lectures/lecture_14.tex:49: [llm_filler] границу шага около \(2\) следует понимать только как параметр
+lectures/lecture_16.tex:376: [safe_claim] нужно дополнительное условие роста или регулярности. Надёжное общее
+lectures/lecture_17.tex:411: [transcript] полные библиографические данные в расшифровке не сохранены.
+lectures/lecture_18.tex:418: [transcript] с Adam и RMSProp не содержат в расшифровке достаточных сведений о
+lectures/lecture_19.tex:99: [source_meta] характер: точные предпосылки и явная граница на \(\eta\) в источнике
+lectures/lecture_19.tex:484: [source_meta] в источнике не приведены, поэтому пример имеет лишь иллюстративный
+lectures/lecture_19.tex:478: [lecture_meta] точек; инвексность является отдельным структурным условием. В лекции
+lectures/lecture_19.tex:99: [not_given] характер: точные предпосылки и явная граница на \(\eta\) в источнике
+lectures/lecture_19.tex:476: [safe_claim] PL-свойство также не следует отождествлять с инвексностью. Надёжное
+lectures/lecture_19.tex:98: [meta_quality] в заданную окрестность при достаточно малом шаге имеет качественный
+lectures/lecture_22.tex:118: [transcript] Упоминание полного строчного ранга в расшифровке недостаточно для
+lectures/lecture_22.tex:438: [transcript] увеличение \(c\), упоминаемое в расшифровке, возможно, но не является
+lectures/lecture_22.tex:462: [transcript] Неоднозначный скалярный пример из расшифровки использует одновременно
+lectures/lecture_22.tex:465: [not_reconstructed] точки. Поэтому его буквальная формула не восстанавливается надёжно.
+lectures/lecture_23.tex:142: [transcript] мере сходимости точность увеличивается. В расшифровке не сохранились
+lectures/lecture_23.tex:324: [transcript] Знак минус, потерянный в автоматической расшифровке, означает
+lectures/lecture_23.tex:324: [auto_transcript] Знак минус, потерянный в автоматической расшифровке, означает
+lectures/lecture_23.tex:117: [lecture_meta] В лекции формулируется качественный результат: если \(f\) и \(h\)
+lectures/lecture_23.tex:143: [not_reconstructed] точные соотношения между \(\varepsilon_k\) и \(c_k\), поэтому они не
+lectures/lecture_23.tex:142: [not_preserved] мере сходимости точность увеличивается. В расшифровке не сохранились
+lectures/lecture_27.tex:351: [transcript] универсального равенства между этими величинами нет. В расшифровке
+lectures/lecture_27.tex:353: [not_reconstructed] потому не восстанавливается предположительно.
+lectures/lecture_37.tex:210: [transcript] Точная пороговая формула для \(k_0\) в исходной расшифровке не
+lectures/lecture_37.tex:210: [not_preserved] Точная пороговая формула для \(k_0\) в исходной расшифровке не
+lectures/lecture_41.tex:147: [transcript] Полная формула теоремы в расшифровке лекции восстановлена не полностью.
+lectures/lecture_41.tex:107: [lecture_meta] Для шага порядка \(\gamma\asymp T^{-1/2}\) в лекции приводится оценка
+lectures/lecture_43.tex:168: [lecture_meta] В лекции рассматривается набор MNIST из \(60000\) изображений,
+lectures/lecture_44.tex:135: [transcript] расшифровке не сохранились. Поэтому фиксируется только надёжно
+lectures/lecture_44.tex:134: [auto_transcript] Точные коэффициенты и степени оценки из видеолекции в автоматической
+lectures/lecture_44.tex:135: [not_preserved] расшифровке не сохранились. Поэтому фиксируется только надёжно
+lectures/lecture_47.tex:207: [fuzzy] исходной целью и фактически агрегируемым направлением. При равных
+
+REPETITIVE_TRANSITIONS:
+Следовательно: 135
+Таким образом: 33
+При этом: 15
+В частности: 8
+На практике: 6
+Иными словами: 4

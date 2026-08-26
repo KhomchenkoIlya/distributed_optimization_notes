@@ -1,0 +1,10 @@
+FINAL OVERFULL AUDIT
+====================
+overfull_hbox_log_hits=0
+underfull_hbox_log_hits=162
+hyperref_warnings=0
+missing_character=0
+list_environments=0
+raw_items=0
+generic_headings=0
+suspicious_hits=0

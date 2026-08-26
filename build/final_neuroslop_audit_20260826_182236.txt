@@ -1,0 +1,17 @@
+DOLM FINAL NEUROSLOP AUDIT
+==========================
+lecture_files=47
+list_environments=0
+raw_items=0
+generic_headings=0
+oversectioned_files=7
+suspicious_hits=0
+
+OVERSECTIONED:
+lecture_01.tex: headings=9
+lecture_04.tex: headings=11
+lecture_05.tex: headings=13
+lecture_06.tex: headings=10
+lecture_08.tex: headings=12
+lecture_10.tex: headings=12
+lecture_11.tex: headings=12

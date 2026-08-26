@@ -1,0 +1,421 @@
+Проект: Distributed_Optimization_and_Machine_Learning
+Компиляция main.tex через XeLaTeX...
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/xebabel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(./preamble.tex (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/esint/esint.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-xetex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/ragged2e/ragged2e.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered
+.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f))))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex))
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.
+code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarycalc.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypositioning.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryfit.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.geometric.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.geometric.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.misc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.misc.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.pathreplacing.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.cod
+e.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.pathreplacing.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.markings.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.markings.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypatterns.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.cod
+e.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarybackgrounds.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/gra
+phs/tikzlibrarygraphs.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryquotes.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarymatrix.code.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+(/usr/share/texlive/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/xurl/xurl.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+(/usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def))
+(/usr/share/texlive/texmf-dist/tex/latex/cleveref/cleveref.sty))
+(build/Distributed_Optimization_and_Machine_Learning.aux)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) [1]
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/esint/uesint.fd) [1]
+(build/Distributed_Optimization_and_Machine_Learning.toc) [1]
+(./lectures/lecture_01.tex
+Лекция 1.
+
+Underfull \hbox (badness 1389) in paragraph at lines 47--49
+\TU/DejaVuSerif(0)/m/n/12 ственно использует только собственную информацию и со
+общения
+[1]
+Underfull \hbox (badness 3291) in paragraph at lines 111--112
+[][]\TU/DejaVuSerif(0)/b/n/12 Задача 1.3 \TU/DejaVuSerif(0)/m/n/12 (Экономическ
+ое распределение мощности)\TU/DejaVuSerif(0)/b/n/12 . [][]\TU/DejaVuSerif(0)/m/
+n/12 Требуется
+[2] [3] [4]
+Underfull \hbox (badness 5475) in paragraph at lines 341--341
+|[]\TU/DejaVuSerif(0)/b/n/17.28 Пример распределённого вычисления
+[5] [6]) (./lectures/lecture_02.tex [7]
+Лекция 2.
+[8] [9] [10] [11] [12] [13]) (./lectures/lecture_03.tex [14] [15]
+Лекция 3.
+
+Underfull \hbox (badness 1527) in paragraph at lines 13--13
+|[]\TU/DejaVuSerif(0)/b/n/17.28 Почему основное внимание уделяется
+[16]
+Underfull \hbox (badness 2277) in paragraph at lines 113--118
+\TU/DejaVuSerif(0)/m/n/12 обычной асимптотической или экспоненциальной сходимос
+ти, при
+[17] [18]) (./lectures/lecture_04.tex
+Underfull \hbox (badness 2495) in paragraph at lines 225--2
+[]\TU/DejaVuSerif(0)/m/n/12 Основу курса составляют выпуклая оптимизация и функ
+ции,
+
+Overfull \hbox (16.60265pt too wide) in paragraph at lines 225--2
+\TU/DejaVuSerif(0)/m/n/12 устойчивости непрерывных динамических систем, включая
+ фиксированно-
+
+Underfull \hbox (badness 1019) in paragraph at lines 225--2
+\TU/DejaVuSerif(0)/m/n/12 временную сходимость, и на её основе проектируются ус
+коренные
+[19]
+Лекция 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+|\TU/DejaVuSerif(0)/b/n/24.88 Основные постановки задач
+
+Underfull \hbox (badness 5607) in paragraph at lines 7--13
+[]\TU/DejaVuSerif(0)/m/n/12 Перед построением распределённых алгоритмов необход
+имо
+[20]
+Underfull \hbox (badness 1360) in paragraph at lines 80--82
+[]\TU/DejaVuSerif(0)/m/n/12 Функции $\OML/cmm/m/it/12 h[]$ \TU/DejaVuSerif(0)/m
+/n/12 задают ограничения-неравенства, а функции $\OML/cmm/m/it/12 `[]$ \TU/Deja
+VuSerif(0)/m/n/12 —
+[21]
+Underfull \hbox (badness 1142) in paragraph at lines 184--189
+\TU/DejaVuSerif(0)/m/n/12 жение информации второго порядка, относятся квазиньют
+оновские
+[22] [23] [24]
+Underfull \hbox (badness 7451) in paragraph at lines 463--463
+|[]\TU/DejaVuSerif(0)/b/n/17.28 Жёстко-разделяющий метод опорных
+[25] [26]) (./lectures/lecture_05.tex [27]
+Лекция 5.
+[28]
+Underfull \hbox (badness 1412) in paragraph at lines 78--82
+\TU/DejaVuSerif(0)/m/n/12 множество выпукло именно тогда, когда содержит отрезо
+к между
+[29]
+Underfull \hbox (badness 1466) in paragraph at lines 184--187
+[]\TU/DejaVuSerif(0)/m/n/12 Для общей невыпуклой функции локальные минимумы мог
+ут
+[30] [31] [32] [33] [34]) (./lectures/lecture_06.tex [35]
+Лекция 6.
+[36]
+Underfull \hbox (badness 1442) in paragraph at lines 139--142
+[]\TU/DejaVuSerif(0)/m/n/12 Дополнительное квадратичное слагаемое задаёт равном
+ерную
+[37] [38] [39]
+Underfull \hbox (badness 5817) in paragraph at lines 399--401
+[][]\TU/DejaVuSerif(0)/b/n/12 Определение 6.11 \TU/DejaVuSerif(0)/m/n/12 (Нерав
+енство Поляка–Лоясиевича)\TU/DejaVuSerif(0)/b/n/12 . [][]\TU/DejaVuSerif(0)/m/n
+/12 Дифферен-
+
+Underfull \hbox (badness 1406) in paragraph at lines 399--401
+\TU/DejaVuSerif(0)/m/n/12 цируемая функция $\OML/cmm/m/it/12 f [] [] \U/msb/m/n
+/12 R[] \OMS/cmsy/m/n/12 ! \U/msb/m/n/12 R$ \TU/DejaVuSerif(0)/m/n/12 удовлетво
+ряет неравенству Поляка–
+[40] [41] [42]) (./lectures/lecture_07.tex [43]
+Лекция 7.
+
+Underfull \hbox (badness 4765) in paragraph at lines 2--2
+|\TU/DejaVuSerif(0)/b/n/24.88 Следствия сильной выпукло-
+[44] [45] [46] [47]
+Underfull \hbox (badness 3250) in paragraph at lines 380--380
+|[]\TU/DejaVuSerif(0)/b/n/17.28 Условие оптимальности на выпуклом
+
+Underfull \hbox (badness 1163) in paragraph at lines 434--437
+[]\TU/DejaVuSerif(0)/m/n/12 Градиент $\OMS/cmsy/m/n/12 r\OML/cmm/m/it/12 f\OT1/
+cmr/m/n/12 (\OML/cmm/m/it/12 x[]\OT1/cmr/m/n/12 )$ \TU/DejaVuSerif(0)/m/n/12 ук
+азывает направление возрастания функции.
+[48] [49]
+Underfull \hbox (badness 2875) in paragraph at lines 576--581
+\TU/DejaVuSerif(0)/m/n/12 Сумма $\OML/cmm/m/it/12 ^^V$\TU/DejaVuSerif(0)/m/n/12
+ -сильно выпуклой и выпуклой функций остаётся
+
+Underfull \hbox (badness 1184) in paragraph at lines 576--581
+\OML/cmm/m/it/12 ^^V$\TU/DejaVuSerif(0)/m/n/12 -сильно выпуклой. Сильная выпукл
+ость также влечёт PL-
+) (./lectures/lecture_08.tex [50]
+Лекция 8.
+[51] [52]
+Underfull \hbox (badness 3323) in paragraph at lines 224--225
+[]\TU/DejaVuSerif(0)/m/n/12 Эти равенства можно записать через производные функ
+ции
+[53] [54] [55] [56] [57] [58]
+Underfull \hbox (badness 2970) in paragraph at lines 675--681
+\TU/DejaVuSerif(0)/m/n/12 шом числе ограничений двойственная постановка может
+) (./lectures/lecture_09.tex [59]
+Лекция 9.
+
+Underfull \hbox (badness 2027) in paragraph at lines 2--2
+|\TU/DejaVuSerif(0)/b/n/24.88 Условие Слейтера и сильная
+[60] [61] [62] [63] [64] [65]) (./lectures/lecture_10.tex [66]
+Лекция 10.
+
+Underfull \hbox (badness 2237) in paragraph at lines 5--5
+[]\TU/DejaVuSerif(0)/b/n/12 Видеолекция: [] []\TU/DejaVuSerif(0)/m/n/12 Week 3:
+ Lecture 10: Analysis of Gradient Descent
+[67] [68]
+Underfull \hbox (badness 1748) in paragraph at lines 184--184
+|[]\TU/DejaVuSerif(0)/b/n/17.28 Двойственная задача линейного про-
+[69] [70]
+Underfull \hbox (badness 1297) in paragraph at lines 399--399
+|[]\TU/DejaVuSerif(0)/b/n/17.28 Стационарность по прямым перемен-
+[71] [72] [73] [74]) (./lectures/lecture_11.tex [75]
+Лекция 11.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+|\TU/DejaVuSerif(0)/b/n/24.88 KKT-условия и градиентный
+[76] [77] [78] [79] [80] [81] [82] [83] [84] [85]) (./lectures/lecture_12.tex
+[86]
+Лекция 12.
+
+Underfull \hbox (badness 1708) in paragraph at lines 37--38
+[][]\TU/DejaVuSerif(0)/b/n/12 Лемма 12.1 \TU/DejaVuSerif(0)/m/n/12 (Квадратична
+я верхняя оценка)\TU/DejaVuSerif(0)/b/n/12 . [][]\TU/DejaVuSerif(0)/m/it/12 Есл
+и $\OML/cmm/m/it/12 f$ \TU/DejaVuSerif(0)/m/it/12 является $\OML/cmm/m/it/12 L$
+\TU/DejaVuSerif(0)/m/it/12 -
+[87] [88] [89] [90]) (./lectures/lecture_13.tex [91]
+Лекция 13.
+[92] [93] [94] [95] [96]) (./lectures/lecture_14.tex
+Underfull \hbox (badness 6016) in paragraph at lines 521--2
+[]\TU/DejaVuSerif(0)/m/n/12 Непрерывная интерпретация связывает стационарные то
+чки
+[97]
+Лекция 14.
+./lectures/lecture_14.tex:49: Undefined control sequence.
+l.49 ...ица шага около \(2\) относится только к \1
+                                                  .
+Output written on build/Distributed_Optimization_and_Machine_Learning.pdf (100 
+pages).
+SyncTeX written on build/Distributed_Optimization_and_Machine_Learning.synctex.gz.
+Transcript written on build/Distributed_Optimization_and_Machine_Learning.log.

@@ -1,0 +1,190 @@
+\documentclass[12pt,a4paper,oneside]{book}
+
+% Минимальные настройки для первой сборки.
+% Позже основное оформление перенесём в preamble.tex.
+\usepackage{fontspec}
+\usepackage[english,russian]{babel}
+
+\setmainfont{DejaVu Serif}
+\setsansfont{DejaVu Sans}
+\setmonofont{DejaVu Sans Mono}
+
+\usepackage[
+    a4paper,
+    top=22mm,
+    bottom=24mm,
+    headheight=26pt,
+    left=27mm,
+    right=22mm
+]{geometry}
+
+\usepackage{graphicx}
+\usepackage{eso-pic}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+\hypersetup{
+    unicode=true,
+    colorlinks=false,
+    hidelinks,
+    pdftitle={Распределённая оптимизация и машинное обучение},
+    pdfauthor={Хомченко Илья, Шелегеда Наталья}
+}
+
+\urlstyle{same}
+
+% Здесь позднее будут находиться основные настройки оформления.
+\input{preamble.tex}
+
+% Полностраничное изображение без полей.
+\newcommand{\FullPageImage}[1]{%
+    \AddToShipoutPictureBG*{%
+        \AtPageLowerLeft{%
+            \includegraphics[
+                width=\paperwidth,
+                height=\paperheight
+            ]{#1}%
+        }%
+    }%
+    \null
+    \thispagestyle{empty}
+    \clearpage
+}
+
+\begin{document}
+
+% ============================================================
+% Первый лист: полностраничная обложка
+% ============================================================
+
+\FullPageImage{maul.png}
+
+% ============================================================
+% Второй лист: титульная страница
+% ============================================================
+
+\begin{titlepage}
+    \thispagestyle{empty}
+    \centering
+
+    \vspace*{1.7cm}
+
+    {\small\bfseries ЛЕКЦИОННЫЙ КУРС}
+
+    \vspace{0.65cm}
+
+    \rule{0.76\textwidth}{0.8pt}
+
+    \vspace{1.15cm}
+
+    {\fontsize{25}{31}\selectfont
+        \bfseries
+        Распределённая оптимизация\\[0.25cm]
+        и машинное обучение
+    }
+
+    \vspace{0.9cm}
+
+    {\Large\itshape Конспект лекций}
+
+    \vspace{1.15cm}
+
+    \rule{0.76\textwidth}{0.8pt}
+
+    \vfill
+
+    {\small\bfseries АВТОРЫ КОНСПЕКТА}
+
+    \vspace{0.55cm}
+
+    {\Large Хомченко Илья}
+
+    \vspace{0.25cm}
+
+    {\Large Шелегеда Наталья}
+
+    \vfill
+
+    \begin{minipage}{0.76\textwidth}
+        \centering
+        \small
+        Конспект подготовлен по материалам открытого видеокурса.\\[0.35cm]
+        \href{
+            https://www.youtube.com/playlist?list=PLOzRYVm0a65fhKDS8cYIC7YCuVGJ4FOJx
+        }{
+            \textbf{YouTube-плейлист курса}
+        }
+    \end{minipage}
+
+    \vspace{1.5cm}
+
+    {\large Москва}
+
+    \vspace{0.15cm}
+
+    {\large 2026}
+\end{titlepage}
+
+% ============================================================
+% Оглавление
+% ============================================================
+
+\frontmatter
+
+\tableofcontents
+
+\mainmatter
+
+% ============================================================
+% Лекции
+% ============================================================
+
+\input{lectures/lecture_01.tex}
+\input{lectures/lecture_02.tex}
+\input{lectures/lecture_03.tex}
+\input{lectures/lecture_04.tex}
+\input{lectures/lecture_05.tex}
+\input{lectures/lecture_06.tex}
+\input{lectures/lecture_07.tex}
+\input{lectures/lecture_08.tex}
+\input{lectures/lecture_09.tex}
+\input{lectures/lecture_10.tex}
+\input{lectures/lecture_11.tex}
+\input{lectures/lecture_12.tex}
+\input{lectures/lecture_13.tex}
+\input{lectures/lecture_14.tex}
+\input{lectures/lecture_15.tex}
+\input{lectures/lecture_16.tex}
+\input{lectures/lecture_17.tex}
+\input{lectures/lecture_18.tex}
+\input{lectures/lecture_19.tex}
+\input{lectures/lecture_20.tex}
+\input{lectures/lecture_21.tex}
+\input{lectures/lecture_22.tex}
+\input{lectures/lecture_23.tex}
+\input{lectures/lecture_24.tex}
+\input{lectures/lecture_25.tex}
+\input{lectures/lecture_26.tex}
+\input{lectures/lecture_27.tex}
+\input{lectures/lecture_28.tex}
+\input{lectures/lecture_29.tex}
+\input{lectures/lecture_30.tex}
+\input{lectures/lecture_31.tex}
+\input{lectures/lecture_32.tex}
+\input{lectures/lecture_33.tex}
+\input{lectures/lecture_34.tex}
+\input{lectures/lecture_35.tex}
+\input{lectures/lecture_36.tex}
+\input{lectures/lecture_37.tex}
+\input{lectures/lecture_38.tex}
+\input{lectures/lecture_39.tex}
+\input{lectures/lecture_40.tex}
+\input{lectures/lecture_41.tex}
+\input{lectures/lecture_42.tex}
+\input{lectures/lecture_43.tex}
+\input{lectures/lecture_44.tex}
+\input{lectures/lecture_45.tex}
+\input{lectures/lecture_46.tex}
+\input{lectures/lecture_47.tex}
+
+\end{document}
